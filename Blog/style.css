@@ -60,9 +60,12 @@ body {
 .button:hover {
     background-color: cadetblue;
 }
-.logo {
-    height: 5rem;
-    width: 5rem;
-    margin: 0.5rem;
-    vertical-align: bottom;
+.footer {
+    background-color: cadetblue;
+    padding: 0.3rem;
+    border-radius: 0.2rem;
+}
+.footer p {
+    text-align: center;
+    font-weight: bold;
 }
