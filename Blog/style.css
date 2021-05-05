@@ -54,3 +54,12 @@ body {
 .button:hover {
     background-color: cadetblue;
 }
+.footer {
+    background-color: cadetblue;
+    padding: 0.3rem;
+    border-radius: 0.2rem;
+}
+.footer p {
+    text-align: center;
+    font-weight: bold;
+}
